@@ -1,0 +1,30 @@
+Command
+youtube search <video>	
+Plays a YouTube video with the given title.
+
+google search <query>
+	Performs a Google search for the specified query.
+
+speed test
+	Runs a speed test and reports the download and upload speeds.
+    
+mars images	
+Fetches and displays the first Mars image from the NASA API.
+
+next
+	Displays the next Mars image if available.
+
+about <query>	
+Searches for information about the specified query, either from Wikipedia or Google.
+
+send whatsapp message	
+Sends a WhatsApp message to the specified contact.
+
+whatsapp call	
+Initiates a WhatsApp call to the specified contact.
+
+show chats	
+Opens WhatsApp chats using the desktop application.
+
+exit, quit, bye	Exits
+ the program and says goodbye.
