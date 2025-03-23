@@ -122,7 +122,7 @@ def MarsImages():
     global mars_images, current_image_index
     try:
         # NASA API Key
-        nasa_api_key = ("add your nasa api") # Apni NASA API key yahan daali gayi hai
+        nasa_api_key = ("add your nasa api") # paste your nasa API key
         rover_url = f"https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key={nasa_api_key}"  # 1000th day of Curiosity rover
 
         response = requests.get(rover_url)
